@@ -1,7 +1,7 @@
 AUTHOR = 'fuehlich'
 SITENAME = 'fuehlich.org'
 SITEURL = ''
-THEME = 'attila-2.0'
+THEME = '../attila'
 
 PATH = 'content'
 
